@@ -12,7 +12,7 @@ site_theme               : "default" # The available themes options are "default
 title                    : "王萍 | 个人学术主页"
 title_separator          : "-"
 name                     : &name "王萍"
-description              : &description "王萍，新闻传播学研究生"   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "王萍，新闻传播学博士研究生"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://wangping026.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -24,13 +24,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "王萍"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "新闻与传播研究生博0选手，关注视听艺术与文化传播"
+  location         : "南京"
+  employer         : "南京大学"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "382922950@qq.com" 
 
   # Academic websites
   academia         : # URL
@@ -51,7 +51,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "wangping026"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
